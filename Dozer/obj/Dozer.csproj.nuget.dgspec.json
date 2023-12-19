@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/christinahailu/Desktop/Dozer_Back-end/CapstoneProject/Dozer/Dozer.csproj": {}
+    "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj": {}
   },
   "projects": {
-    "/Users/christinahailu/Desktop/Dozer_Back-end/CapstoneProject/Dozer/Dozer.csproj": {
+    "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/CapstoneProject/Dozer/Dozer.csproj",
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj",
         "projectName": "Dozer",
-        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/CapstoneProject/Dozer/Dozer.csproj",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj",
         "packagesPath": "/Users/christinahailu/.nuget/packages/",
-        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/CapstoneProject/Dozer/obj/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
