@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/christinahailu/.nuget/packages/": {}
+    "/Users/ru/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj",
+      "projectUniqueName": "/Users/ru/Documents/GitHub/Dozer_Back-end/Dozer/Dozer.csproj",
       "projectName": "Dozer",
-      "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/Dozer.csproj",
-      "packagesPath": "/Users/christinahailu/.nuget/packages/",
-      "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/Dozer/obj/",
+      "projectPath": "/Users/ru/Documents/GitHub/Dozer_Back-end/Dozer/Dozer.csproj",
+      "packagesPath": "/Users/ru/.nuget/packages/",
+      "outputPath": "/Users/ru/Documents/GitHub/Dozer_Back-end/Dozer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        "/Users/ru/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
