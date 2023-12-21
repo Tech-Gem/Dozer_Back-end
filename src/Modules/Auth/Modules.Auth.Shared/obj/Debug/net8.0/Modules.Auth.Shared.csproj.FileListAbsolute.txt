@@ -1,0 +1,15 @@
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/bin/Debug/net8.0/Modules.Auth.Shared.deps.json
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/bin/Debug/net8.0/Modules.Auth.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/bin/Debug/net8.0/Modules.Auth.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/bin/Debug/net8.0/Dozer.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/bin/Debug/net8.0/Dozer.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.csproj.AssemblyReference.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.AssemblyInfoInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.AssemblyInfo.cs
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.csproj.CoreCompileInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.csproj.CopyComplete
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/refint/Modules.Auth.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/Modules.Auth.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Shared/obj/Debug/net8.0/ref/Modules.Auth.Shared.dll

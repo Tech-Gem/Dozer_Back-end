@@ -1,0 +1,17 @@
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Modules.Auth.Domain.deps.json
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Modules.Auth.Domain.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Modules.Auth.Domain.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.csproj.AssemblyReference.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.AssemblyInfoInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.AssemblyInfo.cs
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.csproj.CoreCompileInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/refint/Modules.Auth.Domain.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/ref/Modules.Auth.Domain.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Dozer.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Modules.Auth.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Modules.Auth.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/bin/Debug/net8.0/Dozer.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Modules/Auth/Modules.Auth.Domain/obj/Debug/net8.0/Modules.Auth.Domain.csproj.CopyComplete

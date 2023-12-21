@@ -1,0 +1,12 @@
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/bin/Debug/net8.0/Dozer.Shared.deps.json
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/bin/Debug/net8.0/Dozer.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/bin/Debug/net8.0/Dozer.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.csproj.AssemblyReference.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.AssemblyInfoInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.AssemblyInfo.cs
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.csproj.CoreCompileInputs.cache
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/refint/Dozer.Shared.dll
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/Dozer.Shared.pdb
+/Users/christinahailu/Desktop/Dozer-Api/src/Shared/Dozer.Shared/obj/Debug/net8.0/ref/Dozer.Shared.dll

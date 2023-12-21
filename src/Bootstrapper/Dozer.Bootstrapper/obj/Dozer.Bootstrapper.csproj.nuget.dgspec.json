@@ -1,0 +1,490 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Bootstrapper/Dozer.Bootstrapper/Dozer.Bootstrapper.csproj": {}
+  },
+  "projects": {
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Bootstrapper/Dozer.Bootstrapper/Dozer.Bootstrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Bootstrapper/Dozer.Bootstrapper/Dozer.Bootstrapper.csproj",
+        "projectName": "Dozer.Bootstrapper",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Bootstrapper/Dozer.Bootstrapper/Dozer.Bootstrapper.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Bootstrapper/Dozer.Bootstrapper/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/Modules.Auth.Api.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/Modules.Auth.Api.csproj"
+              },
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/Modules.Auth.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/Modules.Auth.Api.csproj",
+        "projectName": "Modules.Auth.Api",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/Modules.Auth.Api.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj"
+              },
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/Modules.Auth.Infrastructure.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/Modules.Auth.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj",
+        "projectName": "Modules.Auth.Application",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/Modules.Auth.Domain.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/Modules.Auth.Domain.csproj"
+              },
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/Modules.Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/Modules.Auth.Domain.csproj",
+        "projectName": "Modules.Auth.Domain",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/Modules.Auth.Domain.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/Modules.Auth.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/Modules.Auth.Infrastructure.csproj",
+        "projectName": "Modules.Auth.Infrastructure",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/Modules.Auth.Infrastructure.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Application/Modules.Auth.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj",
+        "projectName": "Modules.Auth.Shared",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/Modules.Auth.Shared.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Modules/Auth/Modules.Auth.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj": {
+                "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj",
+        "projectName": "Dozer.Shared",
+        "projectPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/Dozer.Shared.csproj",
+        "packagesPath": "/Users/christinahailu/.nuget/packages/",
+        "outputPath": "/Users/christinahailu/Desktop/Dozer_Back-end/src/Shared/Dozer.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christinahailu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.2-pre01, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Riok.Mapperly": {
+              "target": "Package",
+              "version": "[3.3.1-next.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.2-dev-02097, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

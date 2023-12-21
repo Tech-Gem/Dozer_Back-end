@@ -1,0 +1,6 @@
+@Dozer.Bootstrapper_HostAddress = http://localhost:5162
+
+GET {{Dozer.Bootstrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
